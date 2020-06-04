@@ -10,7 +10,7 @@
 4. Study [Srđan's blog](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84) about preparing the written assessment (2/4)
 5. Anki Cards
 
-**Thoughts** Feel a big progress after consuming big time on reviewing all the exercises and watching carefully on all the teaching videos. Getting familiar with the terminology of the fundamental elements of Ruby.
+**Thoughts**: Feel a big progress after consuming big time on reviewing all the exercises and watching carefully on all the teaching videos. Getting familiar with the terminology of the fundamental elements of Ruby.
 
-**Link(s) to work**
+**Link(s) to work**:
 1. [100 Days Of Code Log](https://github.com/DumboCL/100-days-of-code/edit/master/log.md)
