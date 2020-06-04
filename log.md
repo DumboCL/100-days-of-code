@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
-# ##### (delete me or comment me out)
+##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -19,9 +19,11 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: June 04, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:
+1. Finished one Codewars Kata
+https://www.codewars.com/kata/59da47fa27ee00a8b90000b4/train/ruby
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
