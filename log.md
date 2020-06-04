@@ -24,6 +24,8 @@
 **Today's Progress**:
 1. Finished one Codewars Kata
 https://www.codewars.com/kata/59da47fa27ee00a8b90000b4/train/ruby
+2. Review learning material from LS
+Working with Blocks (https://launchschool.com/lessons/c53f2250/assignments/c633cf37)
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
