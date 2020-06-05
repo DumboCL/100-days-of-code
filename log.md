@@ -14,3 +14,10 @@
 
 **Link(s) to work**:
 1. [100 Days Of Code Log](https://github.com/DumboCL/100-days-of-code/edit/master/log.md)
+
+### Day 2: June 05, Friday
+
+**Today's Progress**:
+1. Finished one Codewars Kata: 
+2. Study [Srđan's blog](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84) about preparing the written assessment (4/4)
+3. Anki Cards
