@@ -19,5 +19,12 @@
 
 **Today's Progress**:
 1. Study [Srđan's blog](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84) about preparing the written assessment (4/4)
-3. Organised all the required description of code snippets for 109
+2. Organised all the required description of code snippets for 109
 3. Anki Cards
+
+### Day 2: June 06, Saturday
+
+**Today's Progress**:
+1. LS: RB101-RB109-Small Problems, Documentation Again
+2. Leetcode: [2. Add Two Numbers](https://github.com/DumboCL/leetcode-ruby/blob/master/solutions/2-add-two-numbers/2_add_two_numbers.rb)
+3. 
