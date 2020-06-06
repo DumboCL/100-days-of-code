@@ -22,7 +22,7 @@
 2. Organised all the required description of code snippets for 109
 3. Anki Cards
 
-### Day 2: June 06, Saturday
+### Day 3: June 06, Saturday
 
 **Today's Progress**:
 1. LS: RB101-RB109-Small Problems, Documentation Again
