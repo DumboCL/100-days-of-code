@@ -33,3 +33,5 @@
 
 **Today's Progress**:
 1. LS: RB101-RB109-Small Problems, Documentation Again
+2. LS: RB101-RB109-Small Problems, Easy 1
+3. 10 CodeWars 8kyu Katas
