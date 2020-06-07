@@ -28,3 +28,8 @@
 1. LS: RB101-RB109-Small Problems, Documentation Again
 2. Leetcode: [2. Add Two Numbers](https://github.com/DumboCL/leetcode-ruby/blob/master/solutions/2-add-two-numbers/2_add_two_numbers.rb)
 3. Practice written assessment with study-mate.
+
+### Day 4: June 07, Sunday
+
+**Today's Progress**:
+1. LS: RB101-RB109-Small Problems, Documentation Again
