@@ -36,3 +36,11 @@
 2. LS: RB101-RB109-Small Problems, Easy 1
 3. 10 CodeWars 8kyu Katas
 4. Clean all Anki cards
+
+### Day 5: June 08, Monday
+
+**Today's Progress**:
+1. LS: RB101-RB109-Small Problems, Easy 2
+2. LS: RB101-RB109-Small Problems, Easy 3
+3. [https://launchschool.com/lessons/c53f2250/assignments/f524e910](https://launchschool.com/lessons/c53f2250/assignments/f524e910)
+4. Clean all Anki cards
