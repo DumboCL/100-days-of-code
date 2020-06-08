@@ -44,3 +44,12 @@
 2. LS: RB101-RB109-Small Problems, Easy 3
 3. [Practice Problems: Sorting, Nested Collections and Working with Blocks](https://launchschool.com/lessons/c53f2250/assignments/f524e910)
 4. Study Group
+
+### Day 6: June 09, Tuesday
+
+**Today's Progress**:
+1. 10 CodeWars 8kyu Katas
+2. LS: RB101-RB109-Small Problems, Easy 4
+3. LS: RB101-RB109-Small Problems, Easy 5
+4. Anki
+5. Practice [Srđan's blog](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84)
