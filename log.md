@@ -55,9 +55,13 @@
 
 **Today's Progress**:
 1. 10 CodeWars 8kyu Katas
-2. LS: RB101-RB109-Small Problems, Easy 5
-3. LS: RB101-RB109-Small Problems, Easy 6
-4. LS: RB101-RB109-Small Problems, Easy 7
+
+### Day 8: June 11, Thursday
+
+**Today's Progress**:
+1. 10 CodeWars 8kyu Katas
+3. LS: RB101-RB109-Small Problems, Easy 5
+4. LS: RB101-RB109-Small Problems, Easy 6
 5. Study [Srđan's blog](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84)
 6. Anki
 
