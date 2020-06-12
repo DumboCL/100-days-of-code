@@ -66,10 +66,9 @@
 ### Day 9: June 12, Friday
 
 **Today's Progress**:
-1. CodeWars: 8kyu * 10, 7kyu * 3, 6kyu * 2, 5kyu * 1
+1. CodeWars: 8kyu * 13, 7kyu * 3, 6kyu * 2, 5kyu * 1
 2. LS: RB101-RB109-Small Problems, Easy 7
 3. LS: RB101-RB109-Small Problems, Easy 8
-4. LS: RB101-RB109-Small Problems, Easy 9
-5. Study [Srđan's blog](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84)
-6. Anki
+4. Study [Srđan's blog](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84)
+5. Anki
 
