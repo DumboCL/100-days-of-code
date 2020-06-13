@@ -72,3 +72,9 @@
 4. Study [Srđan's blog](https://medium.com/how-i-started-learning-coding-from-scratch/advices-for-109-written-assessment-part-1-6f7fa821cf84)
 5. Anki
 
+### Day 10: June 13, Saturday
+
+**Today's Progress**:
+1. CodeWars: 8kyu * 10, 7kyu * 3, 6kyu * 2, 5kyu * 1
+2. LS: RB101-RB109-Small Problems, Easy 9
+
