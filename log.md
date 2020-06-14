@@ -81,6 +81,6 @@
 ### Day 11: June 14, Sunday
 
 **Today's Progress**:
-1. CodeWars: 8kyu * 10, 7kyu * 3, 6kyu * 2, 5kyu * 1
+1. CodeWars: 8kyu * 10, 7kyu * 2
 2. LS: Lesson 5: Advanced Ruby Collections - Quiz
 3. Anki
