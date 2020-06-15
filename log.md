@@ -84,3 +84,9 @@
 1. CodeWars: 8kyu * 10, 7kyu * 2
 2. LS: Lesson 5: Advanced Ruby Collections - Quiz
 3. Anki
+
+### Day 12: June 15, Monday
+**Today's Progress:
+
+1. CodeWars: 8kyu * 10, 7kyu * 2
+2. Finished 109 Written Assessment
