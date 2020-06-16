@@ -91,3 +91,9 @@
 1. CodeWars: 7kyu * 1
 2. Finished 109 Written Assessment
 3. TODO: check the screenshot of ipad
+
+### Day 13: June 16, Tuesday
+**Today's Progress**:
+
+1. CodeWars: 6kyu * 2, 5kyu * 1
+2. Study Session
