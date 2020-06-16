@@ -97,3 +97,4 @@
 
 1. CodeWars: 6kyu * 2, 5kyu * 1
 2. Study Session
+3. LS: RB101-RB109-Small Problems, Medium 1
