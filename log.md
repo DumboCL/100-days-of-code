@@ -99,4 +99,5 @@
 ### Day 14: June 17, Wednesday
 **Today's Progress**:
 
-1. CodeWars:
+1. CodeWars:Stuck in [Simple square numbers](https://www.codewars.com/kata/5edc8c53d7cede0032eb6029/train/ruby)
+2. Study Session
