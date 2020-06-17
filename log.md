@@ -99,6 +99,4 @@
 ### Day 14: June 17, Wednesday
 **Today's Progress**:
 
-1. CodeWars: 8kyu * 10, 7kyu * 3, 6kyu * 2, 5kyu * 1
-2. Study Session
-3. LS: RB101-RB109-Small Problems, Medium 1
+1. CodeWars:
