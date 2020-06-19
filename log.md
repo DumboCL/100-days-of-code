@@ -110,4 +110,4 @@
 ### Day 16: June 19, Friday
 **Today's Progress**:
 
-1. CodeWars: 6kyu * 1
+1. CodeWars: 6kyu * 2
