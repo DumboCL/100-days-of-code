@@ -110,5 +110,5 @@
 ### Day 16: June 19, Friday
 **Today's Progress**:
 
-1. CodeWars: 7kyu * 1, 6kyu * 2
+1. CodeWars: 8kyu * 4, 7kyu * 1, 6kyu * 2
 2. [Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby-part-4)
