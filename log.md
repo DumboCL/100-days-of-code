@@ -101,3 +101,13 @@
 
 1. CodeWars:Stuck in [Simple square numbers](https://www.codewars.com/kata/5edc8c53d7cede0032eb6029/train/ruby)
 2. Study Session
+
+### Day 15: June 18, Thursday
+**Today's Progress**:
+
+1. CodeWars: 6kyu * 1 (Half Way)
+
+### Day 16: June 19, Friday
+**Today's Progress**:
+
+1. CodeWars: 6kyu * 1
