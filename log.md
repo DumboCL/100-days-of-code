@@ -116,7 +116,7 @@
 ### Day 17: June 20, Saturday
 **Today's Progress**:
 
-1. CodeWars: 8kyu * 6, 7kyu * 1, 6kyu * 
+1. CodeWars: 8kyu * 7, 7kyu * 2, 6kyu * 
 2. [Live Session: Beginning Ruby Part 5](https://launchschool.com/blog/live-session-beginning-ruby-part-5)
 3. Algoexpert
 4. PMP
