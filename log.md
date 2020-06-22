@@ -126,9 +126,17 @@
 ### Day 18: June 21, Sunday
 **Today's Progress**:
 
-1. CodeWars: 8kyu * 5, 7kyu * 
+1. CodeWars: 8kyu * 8, 7kyu * 1
 2. [Live Session: Beginning Ruby Part 6](https://launchschool.com/blog/live-session-beginning-ruby-part-6)
 3. [Watch others code Part 1](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_1.mp4)
+
+
+### Day 19: June 22, Monday
+**Today's Progress**:
+
+1. CodeWars: 8kyu * , 7kyu * 
+2. [Watch others code Part 2]()
+3. [RB101-RB109 - Small Problems - Medium 1](https://launchschool.com/exercise_sets/48585137)
 
 3. Algoexpert
 4. PMP
