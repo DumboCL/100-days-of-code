@@ -135,7 +135,7 @@
 **Today's Progress**:
 
 1. CodeWars: 8kyu * , 7kyu * 
-2. [Watch others code Part 2]()
+2. [Watch others code Part 2](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_2.mp4)
 3. [RB101-RB109 - Small Problems - Medium 1](https://launchschool.com/exercise_sets/48585137)
 
 3. Algoexpert
