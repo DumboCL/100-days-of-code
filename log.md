@@ -134,11 +134,13 @@
 ### Day 19: June 22, Monday
 **Today's Progress**:
 
-1. CodeWars: 8kyu * , 7kyu * 
-2. [Watch others code Part 2](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_2.mp4)
-3. [RB101-RB109 - Small Problems - Medium 1](https://launchschool.com/exercise_sets/48585137)
-4. [Watch others code Part 3](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_3.mp4)
+1. [Watch others code Part 2](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_2.mp4)
+2. [RB101-RB109 - Small Problems - Medium 1](https://launchschool.com/exercise_sets/48585137)
+3. Anki
+
 ---
+1. CodeWars: 8kyu * , 7kyu * 
+4. [Watch others code Part 3](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_3.mp4)
 3. Algoexpert
 4. PMP
 5. Articles Reading
