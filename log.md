@@ -147,7 +147,7 @@
 ### Day 20: June 23, Tuesday
 **Today's Progress**:
 
-1. CodeWars: 8kyu * 8, 7kyu *
+1. CodeWars: 8kyu * 10, 7kyu *
 2. [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
 3. [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca)
 4. Anki
