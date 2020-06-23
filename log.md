@@ -130,6 +130,12 @@
 2. [Live Session: Beginning Ruby Part 6](https://launchschool.com/blog/live-session-beginning-ruby-part-6)
 3. [Watch others code Part 1](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_1.mp4)
 
+### Day 19: June 22, Monday
+**Today's Progress**:
+
+1. [Watch others code Part 2](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_2.mp4)
+2. [Watch others code Part 3](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_3.mp4)
+3. [RB101-RB109 - Small Problems - Medium 1](https://launchschool.com/exercise_sets/48585137)
 
 ### Day 19: June 22, Monday
 **Today's Progress**:
@@ -137,11 +143,19 @@
 1. [Watch others code Part 2](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_2.mp4)
 2. [Watch others code Part 3](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_3.mp4)
 3. [RB101-RB109 - Small Problems - Medium 1](https://launchschool.com/exercise_sets/48585137)
-4. Anki
 
+### Day 20: June 23, Tuesday
+**Today's Progress**:
+
+1. CodeWars: 8kyu * 1, 7kyu *
+2. [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
+3. [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca)
+4. Anki
 ---
-1. CodeWars: 8kyu * , 7kyu * 
+1. Launch School
+2. PMP
 3. Algoexpert
-4. PMP
-5. Articles Reading
-6. LeetCode: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+4. CodeWars: 8kyu * , 7kyu *
+5. LeetCode:
+6. Articles Reading
+7. Anki
