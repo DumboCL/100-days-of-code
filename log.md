@@ -160,7 +160,13 @@
 
 1. Study Session
 2. [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca)
-3. [RB101-RB109 - Small Problems - Advanced 1](https://launchschool.com/exercise_sets/1b40a3fd)
+3. [RB101-RB109 - Small Problems - Advanced 1](https://launchschool.com/exercise_sets/1b40a3fd) (half way)
+
+### Day 23: June 26, Friday
+**Today's Progress**:
+
+1. [RB101-RB109 - Small Problems - Advanced 1](https://launchschool.com/exercise_sets/1b40a3fd)
+2. Scheduled the interview for RB109
 ---
 2. [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
 3. [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca)
