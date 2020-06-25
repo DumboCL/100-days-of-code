@@ -149,6 +149,18 @@
 
 1. CodeWars: 8kyu * 10, 7kyu * 1
 
+### Day 21: June 24, Wednesday
+**Today's Progress**:
+
+1. Study Session
+2. Part of [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca)
+
+### Day 22: June 25, Thursday
+**Today's Progress**:
+
+1. Study Session
+2. [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca)
+3. [RB101-RB109 - Small Problems - Advanced 1](https://launchschool.com/exercise_sets/1b40a3fd)
 ---
 2. [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
 3. [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca)
