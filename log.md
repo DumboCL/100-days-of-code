@@ -153,7 +153,7 @@
 **Today's Progress**:
 
 1. Study Session
-2. Part of [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca)
+2. [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca) (half way)
 
 ### Day 22: June 25, Thursday
 **Today's Progress**:
