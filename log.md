@@ -173,7 +173,8 @@
 
 1. Requested the interview for RB109
 2. [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
-3. CodeWars: 8kyu * 10, 7kyu *
+3. CodeWars: 8kyu * 10
+4. Study Session
 
 ---
 
