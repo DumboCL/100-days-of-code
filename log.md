@@ -167,9 +167,16 @@
 
 1. [RB101-RB109 - Small Problems - Advanced 1](https://launchschool.com/exercise_sets/1b40a3fd)
 2. Scheduled the interview for RB109
----
+
+### Day 24: June 27, Saturday
+**Today's Progress**:
+
+1. Requested the interview for RB109
 2. [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
-3. [RB101-RB109 - Small Problems - Medium 2](https://launchschool.com/exercise_sets/4eba5cca)
+3. CodeWars: 8kyu * 10, 7kyu *
+
+---
+
 4. Anki
 1. Launch School
 2. PMP
