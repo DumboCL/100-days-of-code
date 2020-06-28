@@ -179,13 +179,12 @@
 ### Day 25: June 28, Sunday
 **Today's Progress**:
 
-1. [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
-2. CodeWars: 8kyu * 10
-3. Anki
-4. [https://launchschool.com/gists/c013accd](https://launchschool.com/gists/c013accd)
+1. CodeWars: 8kyu * 10, 7kyu * 
+2. Anki
 
 ---
-
+[Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
+[Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
 4. Anki
 1. Launch School
 2. PMP
