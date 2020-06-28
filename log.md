@@ -179,12 +179,12 @@
 ### Day 25: June 28, Sunday
 **Today's Progress**:
 
-1. CodeWars: 8kyu * 10, 7kyu * 
+1. CodeWars: 8kyu * 10
 2. Anki
 
 ---
 [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
-[Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
+https://launchschool.com/gists/c013accd
 4. Anki
 1. Launch School
 2. PMP
