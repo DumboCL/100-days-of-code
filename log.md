@@ -197,21 +197,26 @@
 ### Day 28: July 05, Sunday
 **Today's Progress**:
 
-1. CodeWars: 8 kyu * 5, 7kyu * , 6kyu * 
+1. CodeWars: 8 kyu * 5
 2. Anki
 3. [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
 
+### Day 29: July 06, Monday
+**Today's Progress**:
 
-4. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
-
+1. CodeWars: 8 kyu * 
+2. Anki
+3. [Book: Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby/read/introduction)
+4. PMP
 ---
+4. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
 1. [Watch others code Part 5](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code5.mp4)
 1. [Watch others code Part 6](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_6.mp4)
 4. Anki
 1. Launch School
 2. PMP
 3. Algoexpert
-4. CodeWars: 8kyu * , 7kyu *
+4. CodeWars: 8kyu * , 7kyu * , 6kyu *
 5. LeetCode:
 6. Articles Reading
 7. Anki
