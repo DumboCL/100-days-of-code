@@ -185,8 +185,23 @@
 ### Day 26: June 29, Monday
 **Today's Progress**:
 
-1. CodeWars: 8kyu * , 7kyu * 1
+1. CodeWars: 7kyu * 1
 2. Anki
+
+### Day 27: July 03, Friday
+**Today's Progress**:
+
+1. CodeWars: 7kyu * 1, 6kyu * 2
+2. Anki
+
+### Day 28: July 05, Sunday
+**Today's Progress**:
+
+1. CodeWars: 8 kyu * 5, 7kyu * , 6kyu * 
+2. Anki
+
+
+
 3. [Watch others code Part 4](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_part_4.mp4)
 4. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
 
