@@ -214,6 +214,14 @@
 1. Anki
 2. [Book: Object Oriented Programming with Ruby - The Object Model](https://launchschool.com/books/oo_ruby/read/the_object_model)
 3. CodeWars: 8kyu * 3
+
+### Day 31: July 08, Wednesday
+**Today's Progress**:
+
+1. Anki
+2. [Book: Object Oriented Programming with Ruby - Classes and Objects - Part I](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1)
+3. CodeWars: 8kyu * 
+
 ---
 4. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
 1. [Watch others code Part 5](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code5.mp4)
