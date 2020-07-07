@@ -204,10 +204,16 @@
 ### Day 29: July 06, Monday
 **Today's Progress**:
 
-1. CodeWars: 8 kyu * 
-2. Anki
-3. [Book: Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby/read/introduction)
-4. PMP
+1. Anki
+2. [Book: Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby/read/introduction)
+3. PMP
+
+### Day 30: July 07, Tuesday
+**Today's Progress**:
+
+1. Anki
+2. [Book: Object Oriented Programming with Ruby - The Object Model](https://launchschool.com/books/oo_ruby/read/the_object_model)
+3. CodeWars: 8kyu * 3
 ---
 4. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
 1. [Watch others code Part 5](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code5.mp4)
