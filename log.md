@@ -220,8 +220,13 @@
 
 1. Anki
 2. [Book: Object Oriented Programming with Ruby - Classes and Objects - Part I](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1)
-3. CodeWars: 8kyu * 
 
+### Day 32: July 09, Thursday
+**Today's Progress**:
+
+1. Anki
+2. [Book: Object Oriented Programming with Ruby - Classes and Objects - Part II](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part2#classmethods)
+3. [Book: Object Oriented Programming with Ruby - Inheritance](https://launchschool.com/books/oo_ruby/read/inheritance)
 ---
 4. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
 1. [Watch others code Part 5](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code5.mp4)
