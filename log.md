@@ -242,7 +242,15 @@
 3. [tutorialspoint](https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm)
 4. Reached [Codewars Rank 4kyu](https://www.codewars.com/users/vic_ls)
 
+### Day 35: July 12, Sunday
+**Today's Progress**:
+
+1. Anki
+2. Finished [Codecademy's OOP track](https://www.codecademy.com/learn/learn-ruby)
+
 ---
+3. Finished [Zetcode part 1](http://zetcode.com/lang/rubytutorial/oop/)
+4. Finished [Zetcode part 2](http://zetcode.com/lang/rubytutorial/oop2/)
 4. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
 1. [Watch others code Part 5](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code5.mp4)
 1. [Watch others code Part 6](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_6.mp4)
