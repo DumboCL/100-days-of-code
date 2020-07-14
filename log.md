@@ -259,6 +259,7 @@
 
 1. Anki
 2. Finished [Zetcode part 2](http://zetcode.com/lang/rubytutorial/oop2/)
+3. RB120 Lesson 1 Quiz
 ---
 
 4. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
