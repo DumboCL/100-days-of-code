@@ -260,6 +260,18 @@
 1. Anki
 2. Finished [Zetcode part 2](http://zetcode.com/lang/rubytutorial/oop2/)
 3. RB120 Lesson 1 Quiz
+
+### Day 38: July 16, Thursday
+**Today's Progress**:
+
+1. Anki
+2. Lesson 2: Lectures & Exercises
+
+### Day 39: July 17, Friday
+**Today's Progress**:
+
+1. Anki
+2. Lesson 2: Lectures & Exercises
 ---
 
 4. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
