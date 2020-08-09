@@ -283,7 +283,12 @@
 5. Lesson 4 Practice Problems Easy 3
 6. Lesson 4 Practice Problems Medium 1
 
+### Day 41: Aug 9, Sunday
+**Today's Progress**:
 
+1. Anki
+2. Lesson 4 Practice Problems Hard 1
+3. RPS Bonus Features
 
 ---
 3. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
