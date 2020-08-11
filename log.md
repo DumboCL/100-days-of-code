@@ -290,6 +290,18 @@
 2. Lesson 4 Practice Problems Hard 1
 3. RPS Bonus Features
 
+### Day 42: Aug 10, Monday
+**Today's Progress**:
+
+1. Anki
+
+### Day 43: Aug 11, Tuesday
+**Today's Progress**:
+
+1. Anki
+2. RPS Bonus Features
+3. Started OO Tic Tac Toe
+
 ---
 3. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
 
