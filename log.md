@@ -302,9 +302,8 @@
 2. RPS Bonus Features
 3. Started OO Tic Tac Toe
 
----
+<!--- This is an HTML comment in Markdown 
 3. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
-
 4. [The PEDAC Problem Solving Process](https://launchschool.com/lessons/85376b6d/assignments/6e31454a)
 1. [Watch others code Part 5](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code5.mp4)
 1. [Watch others code Part 6](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code_6.mp4)
@@ -316,3 +315,4 @@
 5. LeetCode:
 6. Articles Reading
 7. Anki
+-->
