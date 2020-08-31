@@ -309,7 +309,18 @@
 2. Finished RB129 written assessment
 3. PMP
 
+### Day 45: Aug 31, Monday
+**Today's Progress**:
+
+1. Anki
+2. [Launch School Live Session: Beginning Ruby Part 1](https://launchschool.com/blog/live-session-beginning-ruby)
+
 <!--- This is an HTML comment in Markdown 
+1. [Launch School Live Session: Beginning Ruby Part 2](https://launchschool.com/blog/live-session-beginning-ruby)
+1. [Launch School Live Session: Beginning Ruby Part 3](https://launchschool.com/blog/live-session-beginning-ruby)
+1. [Launch School Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby)
+1. [Launch School Live Session: Beginning Ruby Part 5](https://launchschool.com/blog/live-session-beginning-ruby)
+1. [Launch School Live Session: Beginning Ruby Part 6](https://launchschool.com/blog/live-session-beginning-ruby)
 3. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
 4. [The PEDAC Problem Solving Process](https://launchschool.com/lessons/85376b6d/assignments/6e31454a)
 1. [Watch others code Part 5](http://dkq85ftleqhzg.cloudfront.net/watch_others_code/watch_others_code5.mp4)
