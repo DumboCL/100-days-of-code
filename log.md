@@ -302,6 +302,13 @@
 2. RPS Bonus Features
 3. Started OO Tic Tac Toe
 
+### Day 44: Aug 29, Saturday
+**Today's Progress**:
+
+1. Anki
+2. Finished RB129 written assessment
+3. PMP
+
 <!--- This is an HTML comment in Markdown 
 3. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
 4. [The PEDAC Problem Solving Process](https://launchschool.com/lessons/85376b6d/assignments/6e31454a)
