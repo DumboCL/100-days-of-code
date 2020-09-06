@@ -315,6 +315,18 @@
 1. Anki
 2. [Launch School Live Session: Beginning Ruby Part 1](https://launchschool.com/blog/live-session-beginning-ruby)
 
+### Day 46: Sep 3rd, Thursday
+**Today's Progress**:
+
+1. Anki
+2. Codewars: 8kyu * 1
+
+### Day 47: Sep 6th, Sunday
+**Today's Progress**:
+
+1. Anki
+2. Codewars: 5kyu * 1
+
 <!--- This is an HTML comment in Markdown 
 1. [Launch School Live Session: Beginning Ruby Part 2](https://launchschool.com/blog/live-session-beginning-ruby)
 1. [Launch School Live Session: Beginning Ruby Part 3](https://launchschool.com/blog/live-session-beginning-ruby)
