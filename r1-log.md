@@ -16,6 +16,7 @@ The log of my #100DaysOfCode challenge. Started on [Sep 23, Wednesday, 2020].
 4. Reviewed [zetcode oop 2](http://zetcode.com/lang/rubytutorial/oop2/)
 
 <!--- This is an HTML comment in Markdown 
+Lesson 2: Lecture: Classes and Objects
 1. [Launch School Live Session: Beginning Ruby Part 3](https://launchschool.com/blog/live-session-beginning-ruby)
 1. [Launch School Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby)
 1. [Launch School Live Session: Beginning Ruby Part 5](https://launchschool.com/blog/live-session-beginning-ruby)
