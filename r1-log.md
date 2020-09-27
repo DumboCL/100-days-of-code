@@ -1,11 +1,13 @@
 # #100DaysOfCode Log - Round 1
 
-The log of my #100DaysOfCode challenge. Started on [Sep 23, Wednesday, 2020]. 
+The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020]. 
 
-### Day 01: Sep 23th, Wednesday
+### Day 01: Sep 28th, Monday
 **Today's Progress**:
 
-1. Review LS's OOP book: Classes and Objects Part 1, Part 2
+1. [Launch School Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby)
+2. [Towards a Conceptual Model of Object Oriented Programming](https://medium.com/launch-school/towards-a-conceptual-model-of-object-oriented-programming-118eb971659f}
+2. [ ] OO Basics Exercises
 
 ### Day 02: Sep 24th, Thursday
 **Today's Progress**:
@@ -16,9 +18,7 @@ The log of my #100DaysOfCode challenge. Started on [Sep 23, Wednesday, 2020].
 4. Reviewed [zetcode oop 2](http://zetcode.com/lang/rubytutorial/oop2/)
 
 <!--- This is an HTML comment in Markdown 
-Lesson 2: Lecture: Classes and Objects
-1. [Launch School Live Session: Beginning Ruby Part 3](https://launchschool.com/blog/live-session-beginning-ruby)
-1. [Launch School Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby)
+
 1. [Launch School Live Session: Beginning Ruby Part 5](https://launchschool.com/blog/live-session-beginning-ruby)
 1. [Launch School Live Session: Beginning Ruby Part 6](https://launchschool.com/blog/live-session-beginning-ruby)
 3. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
