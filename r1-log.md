@@ -5,20 +5,22 @@ The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020].
 ### Day 01: Sep 28th, Monday
 **Today's Progress**:
 
-1. [Launch School Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby)
-2. [Towards a Conceptual Model of Object Oriented Programming](https://medium.com/launch-school/towards-a-conceptual-model-of-object-oriented-programming-118eb971659f}
+1. [Towards a Conceptual Model of Object Oriented Programming](https://medium.com/launch-school/towards-a-conceptual-model-of-object-oriented-programming-118eb971659f}
   - An important point that David Flanagan and Yukihiro Matsumoto make about instance variables in their book **_The Ruby Programming Language_**: "All Ruby objects have a set of instance variables. These are not defined by the object's class — they are simply created when a value is assigned to them.” Classes don't define instance variables, they define attributes. Instance variables do not exist prior to an object being created and a value being assigned to them.
   - Some vocabularies that can be noticed are: **attribute**, **essence**, **predetermine**
-3. LS Lecture: Collaborator Objects
-4. [“No object is an island”](https://medium.com/launch-school/no-object-is-an-island-707e59ffedb4)
-5. [OOP Coding Tips](https://launchschool.com/lessons/dfff5f6b/assignments/d632a90f)
-6. Class Responsibility Collaborator (CRC) cards
-7. [Rubocop: Assignment Branch Condition Size](https://launchschool.com/lessons/dfff5f6b/assignments/e1ba7b4b)
-2. [ ] OO Basics Exercises
+2. LS Lecture: Collaborator Objects
+3. [“No object is an island”](https://medium.com/launch-school/no-object-is-an-island-707e59ffedb4)
+4. [OOP Coding Tips](https://launchschool.com/lessons/dfff5f6b/assignments/d632a90f)
+5. Class Responsibility Collaborator (CRC) cards
+6. [Rubocop: Assignment Branch Condition Size](https://launchschool.com/lessons/dfff5f6b/assignments/e1ba7b4b)
+7. Reviewed Lesson 2 Quiz
+
 
 ### Day 02: Sep 24th, Thursday
 **Today's Progress**:
 
+2. [ ] OO Basics Exercises
+1. [Launch School Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby)
 1. Reviewed LS's OOP book: Inheretance
 2. Reviewed [tutorialspoint:oop part](https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm)
 3. Reviewed [zetcode oop 1](http://zetcode.com/lang/rubytutorial/oop1/)
