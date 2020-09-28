@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020].
 ### Day 01: Sep 28th, Monday
 **Today's Progress**:
 
-1. [Towards a Conceptual Model of Object Oriented Programming](https://medium.com/launch-school/towards-a-conceptual-model-of-object-oriented-programming-118eb971659f}
+1. [Towards a Conceptual Model of Object Oriented Programming](https://medium.com/launch-school/towards-a-conceptual-model-of-object-oriented-programming-118eb971659f)
   - An important point that David Flanagan and Yukihiro Matsumoto make about instance variables in their book **_The Ruby Programming Language_**: "All Ruby objects have a set of instance variables. These are not defined by the object's class — they are simply created when a value is assigned to them.” Classes don't define instance variables, they define attributes. Instance variables do not exist prior to an object being created and a value being assigned to them.
   - Some vocabularies that can be noticed are: **attribute**, **essence**, **predetermine**
 2. LS Lecture: Collaborator Objects
