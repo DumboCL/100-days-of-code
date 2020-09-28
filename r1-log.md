@@ -14,6 +14,8 @@ The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020].
 5. Class Responsibility Collaborator (CRC) cards
 6. [Rubocop: Assignment Branch Condition Size](https://launchschool.com/lessons/dfff5f6b/assignments/e1ba7b4b)
 7. Reviewed Lesson 2 Quiz
+8. Equivalence
+9. Variable Scope
 
 
 ### Day 02: Sep 24th, Thursday
