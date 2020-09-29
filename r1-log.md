@@ -18,18 +18,15 @@ The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020].
 9. Variable Scope
 
 
-### Day 02: Sep 24th, Thursday
+### Day 02: Sep 29th, Tuesday
 **Today's Progress**:
 
-2. [ ] OO Basics Exercises
-1. [Launch School Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby)
-1. Reviewed LS's OOP book: Inheretance
-2. Reviewed [tutorialspoint:oop part](https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm)
-3. Reviewed [zetcode oop 1](http://zetcode.com/lang/rubytutorial/oop1/)
-4. Reviewed [zetcode oop 2](http://zetcode.com/lang/rubytutorial/oop2/)
+1. Clear Anki
 
 <!--- This is an HTML comment in Markdown 
 
+2. [ ] OO Basics Exercises
+1. [Launch School Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby)
 1. [Launch School Live Session: Beginning Ruby Part 5](https://launchschool.com/blog/live-session-beginning-ruby)
 1. [Launch School Live Session: Beginning Ruby Part 6](https://launchschool.com/blog/live-session-beginning-ruby)
 3. [The General Approach for Problem Solving](https://launchschool.com/gists/c013accd)
