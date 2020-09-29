@@ -22,6 +22,13 @@ The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020].
 **Today's Progress**:
 
 1. Clear Anki
+2. [Everything you ever wanted to know about constant lookup in Ruby](https://cirw.in/blog/constant-lookup.html)
+  - for me, this is a difficult article. I've tried read it several times, but still can't 100% digest it. However, this latest time reading made progress.
+  - I've set a todo to reread this article in one month later.
+  - Module.nesting
+  - Module.class_eval
+  - Binding class in Summary
+3. Inheritance and Variable Scope
 
 <!--- This is an HTML comment in Markdown 
 
