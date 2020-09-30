@@ -2,37 +2,8 @@
 
 The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020]. 
 
-### Day 01: Sep 28th, Monday
-**Today's Progress**:
-
-1. [Towards a Conceptual Model of Object Oriented Programming](https://medium.com/launch-school/towards-a-conceptual-model-of-object-oriented-programming-118eb971659f)
-  - An important point that David Flanagan and Yukihiro Matsumoto make about instance variables in their book **_The Ruby Programming Language_**: "All Ruby objects have a set of instance variables. These are not defined by the object's class — they are simply created when a value is assigned to them.” Classes don't define instance variables, they define attributes. Instance variables do not exist prior to an object being created and a value being assigned to them.
-  - Some vocabularies that can be noticed are: **attribute**, **essence**, **predetermine**
-2. LS Lecture: Collaborator Objects
-3. [“No object is an island”](https://medium.com/launch-school/no-object-is-an-island-707e59ffedb4)
-4. [OOP Coding Tips](https://launchschool.com/lessons/dfff5f6b/assignments/d632a90f)
-5. Class Responsibility Collaborator (CRC) cards
-6. [Rubocop: Assignment Branch Condition Size](https://launchschool.com/lessons/dfff5f6b/assignments/e1ba7b4b)
-7. Reviewed Lesson 2 Quiz
-8. Equivalence
-9. Variable Scope
-
-
-### Day 02: Sep 29th, Tuesday
-**Today's Progress**:
-
-1. Clear Anki
-2. [Everything you ever wanted to know about constant lookup in Ruby](https://cirw.in/blog/constant-lookup.html)
-  - for me, this is a difficult article. I've tried read it several times, but still can't 100% digest it. However, this latest time reading made progress.
-  - I've set a todo to reread this article in one month later.
-  - Module.nesting
-  - Module.class_eval
-  - Binding class in Summary
-3. Inheritance and Variable Scope
-
 <!--- This is an HTML comment in Markdown 
 
-2. [ ] OO Basics Exercises
 1. [Launch School Live Session: Beginning Ruby Part 4](https://launchschool.com/blog/live-session-beginning-ruby)
 1. [Launch School Live Session: Beginning Ruby Part 5](https://launchschool.com/blog/live-session-beginning-ruby)
 1. [Launch School Live Session: Beginning Ruby Part 6](https://launchschool.com/blog/live-session-beginning-ruby)
@@ -49,3 +20,39 @@ The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020].
 6. Articles Reading
 7. Anki
 -->
+
+### Day 03: Sep 30th, Wednesday
+**Today's Progress**:
+1. Clear Anki
+2. Fake Operators
+3. Reviewed RB120 Lesson 3 Quiz
+4. OO Basics Exercises
+5. Lesson 4: OO Practice Problems
+
+### Day 02: Sep 29th, Tuesday
+**Today's Progress**:
+
+1. Clear Anki
+2. [Everything you ever wanted to know about constant lookup in Ruby](https://cirw.in/blog/constant-lookup.html)
+  - for me, this is a difficult article. I've tried read it several times, but still can't 100% digest it. However, this latest time reading made progress.
+  - I've set a todo to reread this article in one month later.
+  - Module.nesting
+  - Module.class_eval
+  - Binding class in Summary
+3. Inheritance and Variable Scope
+
+
+### Day 01: Sep 28th, Monday
+**Today's Progress**:
+
+1. [Towards a Conceptual Model of Object Oriented Programming](https://medium.com/launch-school/towards-a-conceptual-model-of-object-oriented-programming-118eb971659f)
+  - An important point that David Flanagan and Yukihiro Matsumoto make about instance variables in their book **_The Ruby Programming Language_**: "All Ruby objects have a set of instance variables. These are not defined by the object's class — they are simply created when a value is assigned to them.” Classes don't define instance variables, they define attributes. Instance variables do not exist prior to an object being created and a value being assigned to them.
+  - Some vocabularies that can be noticed are: **attribute**, **essence**, **predetermine**
+2. LS Lecture: Collaborator Objects
+3. [“No object is an island”](https://medium.com/launch-school/no-object-is-an-island-707e59ffedb4)
+4. [OOP Coding Tips](https://launchschool.com/lessons/dfff5f6b/assignments/d632a90f)
+5. Class Responsibility Collaborator (CRC) cards
+6. [Rubocop: Assignment Branch Condition Size](https://launchschool.com/lessons/dfff5f6b/assignments/e1ba7b4b)
+7. Reviewed Lesson 2 Quiz
+8. Equivalence
+9. Variable Scope
