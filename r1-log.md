@@ -21,13 +21,35 @@ The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020].
 7. Anki
 -->
 
-### Day 03: Sep 30th, Wednesday
+### Day 04: Oct 1st, Thursday
+
 **Today's Progress**:
+
+1. Clear Anki
+2. OO Basics Exercises
+   1. [x] OO Basics: Classes and Objects 1
+   2. [x] OO Basics: Classes and Objects 2
+   3. [x] OO Basics: Inheritance
+   4. [x] OO Basics: Accessor Methods
+   5. [x] Easy 1
+   6. [x] Easy 2
+   7. [] Medium 1
+   8. [] Debugging
+3. Lesson 4: OO Practice Problems
+   1. [] Introduction
+   2. [] Easy 1
+   3. [] Easy 2
+   4. [] Easy 3
+   5. [] Medium 1
+   6. [] Hard 1
+
+### Day 03: Sep 30th, Wednesday
+
+**Today's Progress**:
+
 1. Clear Anki
 2. Fake Operators
 3. Reviewed RB120 Lesson 3 Quiz
-4. OO Basics Exercises
-5. Lesson 4: OO Practice Problems
 
 ### Day 02: Sep 29th, Tuesday
 **Today's Progress**:
@@ -56,3 +78,4 @@ The log of my #100DaysOfCode challenge. Started on [Sep 28, Monday, 2020].
 7. Reviewed Lesson 2 Quiz
 8. Equivalence
 9. Variable Scope
+
